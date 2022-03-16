@@ -1,9 +1,8 @@
-- COVEMC PUBLIC  CODE -
+		- COVEMC PUBLIC  CODE -
 
-	This file is part of the COVEMC public code, which is licensed
-	under the Apache License, Version 2.0.
-	For more information, see the LICENSE file in the root directory.
-   Copyright 2022 CoveMC Owners
+
+	
+   	      Copyright 2022 CoveMC Owners
 
        http://www.apache.org/licenses/LICENSE-2.0
 
@@ -12,3 +11,7 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   				-
+   This file is part of the COVEMC public code, which is licensed
+   under the Apache License, Version 2.0.
+   For more information, see the LICENSE file in the root directory.
